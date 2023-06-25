@@ -5,7 +5,7 @@
 ## Summary
 
 - First-year Computer Science student with a growth mindset and a passion for continuous learning.
-- Strong interest in internship opportunities at top tech companies like Palantir, FAANG, Optiver, HRT.
+- Strong interest in internship opportunities at Tech, FinTech, HRT companies or Banks
 - Tinkerer and self-starter, always seeking to make things better without needing constant direction.
 - Enjoys the idea of learning on the job and improving skills through hands-on experience.
 - Actively looking for internship opportunities to apply and expand my knowledge in these areas.
