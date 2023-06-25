@@ -27,7 +27,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 ### Project 1: AI Connect 4
 
 - Description: A Connect 4 game implemented with an AI opponent using the Minimax algorithm.
-- Technologies Used: Python, TensorFlow
+- Technologies Used: Python
 - Key Features: 
   - AI opponent with adjustable difficulty levels.
   - Beautifully designed game interface.
