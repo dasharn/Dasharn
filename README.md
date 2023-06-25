@@ -28,7 +28,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 ### Project 2: Stock Price Predictor
 
 - Description: A machine learning model that predicts stock prices using historical data.
-- Technologies Used: Python, Scikit-learn, Pandas
+- Technologies Used: Python, Pandas, Numpy, Streamlit, Plotly, Prophet
 - Key Features: 
   - Accurate stock price predictions based on historical data analysis.
   - Interactive visualization of predicted vs. actual stock prices.
