@@ -31,7 +31,8 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - Key Features: 
   - AI opponent with adjustable difficulty levels.
   - Beautifully designed game interface.
-- Demo: [AI Connect 4 Demo](https://example.com/ai-connect-4) - coming soon
+- GitHub Repository: [AI Connect 4]()
+- Demo: [AI Connect 4 Demo](https://github.com/Dasharn/AIConnect4) - coming soon
 
 ### Project 2: Stock Price Predictor
 
@@ -40,6 +41,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - Key Features: 
   - Accurate stock price predictions based on historical data analysis.
   - Interactive visualization of predicted vs. actual stock prices.
+- GitHub Repository: [AI Connect 4](https://github.com/Dasharn/StockPricePredictor)
 - Demo: [Stock Price Predictor Demo](https://example.com/stock-price-predictor) - coming soon
 
 ### Project 3: WiChat - Online Chat Room
@@ -49,7 +51,8 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - Key Features: 
   - Real-time messaging with multiple users in a chat room.
   - User authentication and room creation/joining functionality.
-- Demo: [WiChat Demo](https://example.com/wichat) - coming soon
+- GitHub Repository: [AI Connect 4]()
+- Demo: [WiChat Demo](https://github.com/Dasharn/WiChat) - coming soon
 
 
 
