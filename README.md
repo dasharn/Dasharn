@@ -16,7 +16,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 
 ## Skills
 
-- Proficient in programming languages such as Python, Java, and C++.
+- Proficient in programming languages such as Python, Java
 - Familiarity with web development technologies including HTML, CSS, and JavaScript.
 - Experience with data structures, algorithms, and problem-solving.
 - Strong analytical and problem-solving abilities.
@@ -25,7 +25,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 
 ## Internship Goals
 
-I am excited to secure an internship opportunity at a renowned tech company like Palantir, FAANG, Optiver, or HRT. My main goals for an internship include:
+I am excited to secure an internship opportunity at a renowned tech company that will move me towards being a better Software Eningger
 
 - Gaining practical experience and applying my technical knowledge in real-world scenarios.
 - Collaborating with talented professionals to contribute to meaningful projects.
