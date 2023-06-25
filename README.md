@@ -14,14 +14,6 @@
 
 Hello! I am a first-year Computer Science student pursuing internship opportunities in the tech industry. As someone with a growth mindset, I am constantly seeking new challenges and opportunities to learn and grow. I am passionate about honing my skills and staying updated with the latest technologies.
 
-## Skills
-
-- Proficient in programming languages such as Python, Java
-- Familiarity with web development technologies including HTML, CSS, and JavaScript.
-- Experience with data structures, algorithms, and problem-solving.
-- Strong analytical and problem-solving abilities.
-- Excellent teamwork and communication skills.
-
 ## Project Highlights
 
 ### Project 1: AI Connect 4
@@ -30,7 +22,6 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - Technologies Used: Python
 - Key Features: 
   - AI opponent using minimax algorithm and further optimisation using alpha-pruning
-  - Beautifully designed game interface.
 - GitHub Repository: [AI Connect 4]()
 - Demo: [AI Connect 4 Demo](https://github.com/Dasharn/AIConnect4) - coming soon
 
@@ -54,7 +45,13 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
 - Demo: [WiChat Demo](https://example.com/WiChat) - coming soon
 
+## Skills
 
+- Proficient in programming languages such as Python, Java
+- Familiarity with web development technologies including HTML, CSS, and JavaScript.
+- Experience with data structures, algorithms, and problem-solving.
+- Strong analytical and problem-solving abilities.
+- Excellent teamwork and communication skills.
 
 ## Internship Goals
 
