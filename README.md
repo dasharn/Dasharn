@@ -22,6 +22,36 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - Strong analytical and problem-solving abilities.
 - Excellent teamwork and communication skills.
 
+## Project Highlights
+
+### Project 1: AI Connect 4
+
+- Description: A Connect 4 game implemented with an AI opponent using the Minimax algorithm.
+- Technologies Used: Python, TensorFlow
+- Key Features: 
+  - AI opponent with adjustable difficulty levels.
+  - Beautifully designed game interface.
+- Demo: [AI Connect 4 Demo](https://example.com/ai-connect-4) - coming soon
+
+### Project 2: Stock Price Predictor
+
+- Description: A machine learning model that predicts stock prices using historical data.
+- Technologies Used: Python, Scikit-learn, Pandas
+- Key Features: 
+  - Accurate stock price predictions based on historical data analysis.
+  - Interactive visualization of predicted vs. actual stock prices.
+- Demo: [Stock Price Predictor Demo](https://example.com/stock-price-predictor) - coming soon
+
+### Project 3: WiChat - Online Chat Room
+
+- Description: An online chat room application built with Flask and SocketIO.
+- Technologies Used: Python, Flask, SocketIO
+- Key Features: 
+  - Real-time messaging with multiple users in a chat room.
+  - User authentication and room creation/joining functionality.
+- Demo: [WiChat Demo](https://example.com/wichat) - coming soon
+
+
 
 ## Internship Goals
 
