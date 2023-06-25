@@ -1,16 +1,40 @@
 ### Hi there 👋
 
-<!--
-**Dasharn/Dasharn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My name is Dasharn Dennis
 
-Here are some ideas to get you started:
+## Summary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- First-year Computer Science student with a growth mindset and a passion for continuous learning.
+- Strong interest in internship opportunities at top tech companies like Palantir, FAANG, Optiver, HRT.
+- Tinkerer and self-starter, always seeking to make things better without needing constant direction.
+- Enjoys the idea of learning on the job and improving skills through hands-on experience.
+- Actively looking for internship opportunities to apply and expand my knowledge in these areas.
+
+## About Me
+
+Hello! I am a first-year Computer Science student pursuing internship opportunities in the tech industry. As someone with a growth mindset, I am constantly seeking new challenges and opportunities to learn and grow. I am passionate about honing my skills and staying updated with the latest technologies.
+
+## Skills
+
+- Proficient in programming languages such as Python, Java, and C++.
+- Familiarity with web development technologies including HTML, CSS, and JavaScript.
+- Experience with data structures, algorithms, and problem-solving.
+- Strong analytical and problem-solving abilities.
+- Excellent teamwork and communication skills.
+
+
+## Internship Goals
+
+I am excited to secure an internship opportunity at a renowned tech company like Palantir, FAANG, Optiver, or HRT. My main goals for an internship include:
+
+- Gaining practical experience and applying my technical knowledge in real-world scenarios.
+- Collaborating with talented professionals to contribute to meaningful projects.
+- Developing a deeper understanding of software development methodologies and best practices.
+- Expanding my network and learning from experienced mentors in the industry.
+
+## Contact Information
+
+- Email Address: Dasharn Dennis
+
+
+
