@@ -67,7 +67,7 @@ I am excited to secure an internship opportunity at a renowned tech company that
 
 ## Contact Information
 
-- Email Address: Dasharn Dennis
+- Email Address: dasharndennis@gmail.com
 
 
 
