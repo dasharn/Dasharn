@@ -22,8 +22,8 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - Technologies Used: Python
 - Key Features: 
   - AI opponent using minimax algorithm and further optimisation using alpha-pruning
-- GitHub Repository: [AI Connect 4]()
-- Demo: [AI Connect 4 Demo](https://github.com/Dasharn/AIConnect4) - coming soon
+- GitHub Repository: [AI Connect 4](https://github.com/Dasharn/AIConnect4)
+- Demo: [AI Connect 4 Demo](https://example.com/AIConnect4) - coming soon
 
 ### Project 2: Stock Price Predictor
 
