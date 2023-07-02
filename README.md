@@ -4,8 +4,8 @@
 
 ## Summary
 
-- First-year Computer Science student with a growth mindset and a passion for continuous learning.
-- Strong interest in internship opportunities at Tech, FinTech, HRT companies or Banks
+- 🎓First-year Computer Science student with a growth mindset and a passion for continuous learning.
+- 🌟Strong interest in internship opportunities at Tech, FinTech, HRT companies or Banks
 - Tinkerer and self-starter, always seeking to make things better without needing constant direction.
 - Enjoys the idea of learning on the job and improving skills through hands-on experience.
 - Actively looking for internship opportunities to apply and expand my knowledge in these areas.
@@ -16,18 +16,11 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 
 ## Project Highlights
 
-### Project 1: AI Connect 4
 
-- Description: A Connect 4 game implemented with an AI opponent using the Minimax algorithm 
-- Technologies Used: Python
-- Key Features: 
-  - AI opponent using minimax algorithm and further optimisation using alpha-pruning
-- GitHub Repository: [AI Connect 4](https://github.com/Dasharn/AIConnect4)
-- Demo: [AI Connect 4 Demo](https://example.com/AIConnect4) - coming soon
 
-### Project 2: Stock Price Predictor
+### Stock Price Predictor
 
-- Description: A machine learning model that predicts stock prices using historical data.
+- Description: A machine learning model that predicts stock prices using historical data with a simple but elegant UI
 - Technologies Used: Python, Pandas, Numpy, Streamlit, Plotly, Prophet
 - Key Features: 
   - Accurate stock price predictions based on historical data analysis.
@@ -35,7 +28,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - GitHub Repository: [Stock Price Predictor](https://github.com/Dasharn/StockPricePredictor)
 - Demo: [Stock Price Predictor Demo](https://example.com/stock-price-predictor) - coming soon
 
-### Project 3: WiChat - Online Chat Room
+### WiChat - Online Chat Room
 
 - Description: An online chat room application built with Flask and SocketIO.
 - Technologies Used: Python, Flask, SocketIO
@@ -44,6 +37,25 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
   - User authentication and room creation/joining functionality.
 - GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
 - Demo: [WiChat Demo](https://example.com/WiChat) - coming soon
+
+## Pathfinding Visualizer
+- Description: A visualization tool for various pathfinding algorithms on grids.
+- Technologies Used: Python, Pygame.
+- Key Features:
+  - Interactive grid-based interface for defining obstacles and start/end points.
+  - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
+- GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
+ - Demo: [Pathfinding Visualizer Demo](https://example.com/PathfindingVisualiser)
+
+
+### AI Connect 4
+
+- Description: A Connect 4 game implemented with an AI opponent using the Minimax algorithm 
+- Technologies Used: Python
+- Key Features: 
+  - AI opponent using minimax algorithm and further optimisation using alpha-pruning
+- GitHub Repository: [AI Connect 4](https://github.com/Dasharn/AIConnect4)
+- Demo: [AI Connect 4 Demo](https://example.com/AIConnect4) - coming soon
 
 ## Skills
 
