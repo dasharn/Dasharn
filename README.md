@@ -67,7 +67,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 
 ## Internship Goals
 
-I am excited to secure an internship opportunity at a renowned tech company that will move me towards being a better Software Eningger
+I am excited to secure an internship opportunity at a renowned tech company that will move me towards being a better Software Engineer
 
 - Gaining practical experience and applying my technical knowledge in real-world scenarios.
 - Collaborating with talented professionals to contribute to meaningful projects.
