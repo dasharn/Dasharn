@@ -18,7 +18,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 
 
 
-### Stock Price Predictor
+### Prophet - Stock Price Predictor
 
 - Description: A machine learning model that predicts stock prices using historical data with a simple but elegant UI
 - Technologies Used: Python, Pandas, Numpy, Streamlit, Plotly, Prophet
@@ -38,7 +38,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 - GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
 - Demo: [WiChat Demo](https://example.com/WiChat) - coming soon
 
-## Pathfinding Visualizer
+## PathSense - Pathfinding Visualizer
 - Description: A visualization tool for various pathfinding algorithms on grids.
 - Technologies Used: Python, Pygame.
 - Key Features:
