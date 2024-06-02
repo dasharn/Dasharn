@@ -4,7 +4,7 @@
 
 ## Summary
 
-- 🎓First-year Computer Science student with a growth mindset and a passion for continuous learning.
+- 🎓2nd-year Computer Science student with a growth mindset and a passion for continuous learning.
 - 🌟Strong interest in internship opportunities at Tech, FinTech, HRT companies or Banks.
 - Tinkerer and self-starter, always seeking to make things better.
 - Enjoys the idea of learning on the job and improving skills through hands-on experience.
