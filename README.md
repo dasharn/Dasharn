@@ -12,21 +12,12 @@
 
 ## About Me
 
-Hello! I am a first-year Computer Science student pursuing internship opportunities in the tech industry. As someone with a growth mindset, I am constantly seeking new challenges and opportunities to learn and grow. I am passionate about honing my skills and staying updated with the latest technologies.
+Hello! I am a 2nd-year Computer Science student pursuing internship opportunities in the tech industry. As someone with a growth mindset, I am constantly seeking new challenges and opportunities to learn and grow. I am passionate about honing my skills and staying updated with the latest technologies.
 
 ## Project Highlights
 
 
 
-### Prophet - Stock Price Predictor
-
-- Description: A machine learning model that predicts stock prices using historical data with a simple but elegant UI
-- Technologies Used: Python, Pandas, Numpy, Streamlit, Plotly, Prophet
-- Key Features: 
-  - Accurate stock price predictions based on historical data analysis.
-  - Interactive visualization of predicted vs. actual stock prices.
-- GitHub Repository: [Stock Price Predictor](https://github.com/Dasharn/StockPricePredictor)
-- Demo: [Stock Price Predictor Demo](https://example.com/stock-price-predictor) - coming soon
 
 ### WiChat - Online Chat Room
 
@@ -67,7 +58,7 @@ Hello! I am a first-year Computer Science student pursuing internship opportunit
 
 ## Internship Goals
 
-I am excited to secure an internship opportunity at a renowned tech company that will move me towards being a better Software Engineer
+I am excited to secure an internship opportunity at a great company that will move me towards being a better Software Engineer
 
 - Gaining practical experience and applying my technical knowledge in real-world scenarios.
 - Collaborating with talented professionals to contribute to meaningful projects.
