@@ -16,17 +16,6 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
 
 ## Project Highlights
 
-
-
-
-- Description: An online chat room application built with Flask and SocketIO.
-- Technologies Used: Python, Flask, SocketIO
-- Key Features: 
-  - Real-time messaging with multiple users in a chat room.
-  - User authentication and room creation/joining functionality.
-- GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
-
-
 ### WiChat - Online Chat Room
 
 - Description: An online chat room application built with Flask and SocketIO.
@@ -52,8 +41,6 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Interactive grid-based interface for defining obstacles and start/end points.
   - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
 - GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
- 
-
 
 ### AI Connect 4
 
