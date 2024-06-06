@@ -25,6 +25,13 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - User authentication and room creation/joining functionality.
 - GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
 
+## PathSense - Pathfinding Visualizer
+- Description: A visualization tool for various pathfinding algorithms on grids.
+- Technologies Used: Python, Pygame.
+- Key Features:
+  - Interactive grid-based interface for defining obstacles and start/end points.
+  - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
+- GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
 
 ### PyLite - Python Interpreter built in Java
 
@@ -33,14 +40,6 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Implemented robust tokenization using Python’s built-in string manipulation to handle unary/binary operators and if statements
   - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
 - GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
-
-## PathSense - Pathfinding Visualizer
-- Description: A visualization tool for various pathfinding algorithms on grids.
-- Technologies Used: Python, Pygame.
-- Key Features:
-  - Interactive grid-based interface for defining obstacles and start/end points.
-  - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
-- GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
 
 ### AI Connect 4
 
