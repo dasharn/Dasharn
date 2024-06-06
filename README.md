@@ -19,6 +19,14 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
 
 
 
+- Description: An online chat room application built with Flask and SocketIO.
+- Technologies Used: Python, Flask, SocketIO
+- Key Features: 
+  - Real-time messaging with multiple users in a chat room.
+  - User authentication and room creation/joining functionality.
+- GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
+
+
 ### WiChat - Online Chat Room
 
 - Description: An online chat room application built with Flask and SocketIO.
@@ -27,7 +35,15 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Real-time messaging with multiple users in a chat room.
   - User authentication and room creation/joining functionality.
 - GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
-- Demo: [WiChat Demo](https://example.com/WiChat) - coming soon
+
+
+### PyLite - Python Interpreter built in Java
+
+- Developed a compiler + interpreter for a subset of python, leveraging lexical analysis, syntax parsing, and bytecode generation.
+- Key Features:
+  - Implemented robust tokenization using Python’s built-in string manipulation to handle unary/binary operators and if statements
+  - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
+- GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
 
 ## PathSense - Pathfinding Visualizer
 - Description: A visualization tool for various pathfinding algorithms on grids.
@@ -36,7 +52,7 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Interactive grid-based interface for defining obstacles and start/end points.
   - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
 - GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
- - Demo: [Pathfinding Visualizer Demo](https://example.com/PathfindingVisualiser)
+ 
 
 
 ### AI Connect 4
@@ -46,7 +62,7 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
 - Key Features: 
   - AI opponent using minimax algorithm and further optimisation using alpha-pruning
 - GitHub Repository: [AI Connect 4](https://github.com/Dasharn/AIConnect4)
-- Demo: [AI Connect 4 Demo](https://example.com/AIConnect4) - coming soon
+
 
 ## Skills
 
