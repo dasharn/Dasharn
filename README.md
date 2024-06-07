@@ -41,15 +41,6 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
 - GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
 
-### AI Connect 4
-
-- Description: A Connect 4 game implemented with an AI opponent using the Minimax algorithm 
-- Technologies Used: Python
-- Key Features: 
-  - AI opponent using minimax algorithm and further optimisation using alpha-pruning
-- GitHub Repository: [AI Connect 4](https://github.com/Dasharn/AIConnect4)
-
-
 ## Skills
 
 - Proficient in programming languages such as Python, Java
