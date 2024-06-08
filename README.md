@@ -16,14 +16,13 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
 
 ## Project Highlights
 
-### WiChat - Online Chat Room
+### PyLite - Python Interpreter built in Java
 
-- Description: An online chat room application built with Flask and SocketIO.
-- Technologies Used: Python, Flask, SocketIO
-- Key Features: 
-  - Real-time messaging with multiple users in a chat room.
-  - User authentication and room creation/joining functionality.
-- GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
+- Developed a compiler + interpreter for a subset of python, leveraging lexical analysis, syntax parsing, and bytecode generation.
+- Key Features:
+  - Implemented robust tokenization using Python’s built-in string manipulation to handle unary/binary operators and if statements
+  - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
+- GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
 
 ## PathSense - Pathfinding Visualizer
 - Description: A visualization tool for various pathfinding algorithms on grids.
@@ -33,13 +32,14 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
 - GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
 
-### PyLite - Python Interpreter built in Java
+### WiChat - Online Chat Room
 
-- Developed a compiler + interpreter for a subset of python, leveraging lexical analysis, syntax parsing, and bytecode generation.
-- Key Features:
-  - Implemented robust tokenization using Python’s built-in string manipulation to handle unary/binary operators and if statements
-  - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
-- GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
+- Description: An online chat room application built with Flask and SocketIO.
+- Technologies Used: Python, Flask, SocketIO
+- Key Features: 
+  - Real-time messaging with multiple users in a chat room.
+  - User authentication and room creation/joining functionality.
+- GitHub Repository: [WiChat - Online Chat Room](https://github.com/Dasharn/WiChat)
 
 ## Skills
 
