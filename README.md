@@ -24,7 +24,7 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
 - GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
 
-## PathSense - Pathfinding Visualizer
+### PathSense - Pathfinding Visualizer
 - Description: A visualization tool for various pathfinding algorithms on grids.
 - Technologies Used: Python, Pygame.
 - Key Features:
