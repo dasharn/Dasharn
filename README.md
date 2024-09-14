@@ -16,14 +16,6 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
 
 ## Project Highlights
 
-### PathSense - Pathfinding Visualizer
-- Description: A visualization tool for various pathfinding algorithms on grids.
-- Technologies Used: Python, Pygame.
-- Key Features:
-  - Interactive grid-based interface for defining obstacles and start/end points.
-  - Visualisation of popular pathfinding algorithms, including A*, Dijkstra's, and Breadth-First Search.
-- GitHub Repository: [Pathfinding Visualizer](https://github.com/Dasharn/PathfindingVisualiser)
-
 ### PyLite - Python Interpreter built in Java
 
 - Developed a compiler + interpreter for a subset of python, leveraging lexical analysis, syntax parsing, and bytecode generation.
@@ -31,6 +23,14 @@ Hello! I am a 2nd-year Computer Science student pursuing internship opportunitie
   - Implemented robust tokenization using Python’s built-in string manipulation to handle unary/binary operators and if statements
   - Designed an Abstract Syntax Tree (AST) to accurately represent program structure, facilitating efficient translation to bytecode
 - GitHub Repository: [PyLite](https://github.com/dasharn/PyLite)
+
+### Jarvis - AI Chatbot with Weather Integration
+- **Description**: An AI-powered chatbot capable of handling weather lookups and engaging in intelligent conversations with users.
+- **Technologies Used**: Python, Tkinter, OpenWeather API, Google API, DialogGPT-medium.
+- **Key Features**:
+  - Integrated weather lookup functionality via the OpenWeather API using Python’s `requests` library.
+  - User-friendly interface built with Tkinter, featuring both speech recognition and text-to-speech capabilities powered by the Google API.
+  - Natural Language Processing (NLP) responses generated using DialogGPT-medium, enabling intelligent, conversational interactions between the chatbot and users.
 
 ### WiChat - Online Chat Room
 
